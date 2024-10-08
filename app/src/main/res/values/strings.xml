@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentActividad3</string>
+    <string name="btn_text">Clica aqui</string>
+    <string name="actividad2">Actividad2</string>
+</resources>
